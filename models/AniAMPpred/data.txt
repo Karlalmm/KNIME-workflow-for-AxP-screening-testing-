@@ -1,0 +1,3 @@
+esm2: "ESM2_t33"
+endpoint: "AMP"
+type_of_model:"weka"
